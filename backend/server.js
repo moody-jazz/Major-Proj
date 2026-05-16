@@ -14,14 +14,14 @@ connectDB()
 connectCloudinary()
 
 app.use(cors({
-  origin: "https://your-frontend.onrender.com",
+  origin: [
+    "https://major-proj-frontend.onrender.com",
+    "https://major-proj-admin.onrender.com"
+  ],
   credentials: true
-}));
-
+}))
 // middlewares
 app.use(express.json())
-app.use(cors())
-
 // api endpoints
 app.use("/api/user", userRouter)
 app.use("/api/admin", adminRouter)
