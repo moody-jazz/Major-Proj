@@ -14,7 +14,7 @@ connectDB()
 connectCloudinary()
 
 app.use(cors({
-  origin: "*",
+  origin: "https://your-frontend.onrender.com",
   credentials: true
 }));
 
