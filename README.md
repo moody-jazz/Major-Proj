@@ -70,22 +70,3 @@ Follow these instructions to set up the project locally.
    cd frontend
    npm run dev
    ```
-
-# Topics
-Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare App, Patient Records, Appointments.
-
-# Contributors
-Amit Yadav [Github](https://github.com/meniraj07)
-
-# Deployment Links
-[Prescripto Backend](https://prescriptobackend-4ylq.onrender.com)
-
-[Prescripto Patient Panel](https://prescripto-hospital-management-system.vercel.app/)
-
-[Prescripto Admin/Doctor Panel](https://prescripto-hospital-management-system-c29o.vercel.app/)
-
-# Contact
-For any questions or feedback, please contact [Amit Yadav](https://www.linkedin.com/in/nirajkumar-nk/)
-
-# License
-This project is licensed under the MIT License.
